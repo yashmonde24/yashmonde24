@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Yash Monde&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=YashMonde&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/yashmonde24">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Statistics;LLM-powered+analytics+%26+text-to-SQL" alt="Typing SVG" />
