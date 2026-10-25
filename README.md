@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Yash&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/yashmonde24">
@@ -14,9 +14,9 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://yashmonde24.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/yashmonde"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:realyashmonde956@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/yashmonde24"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
@@ -71,7 +71,7 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 **Cloud, DevOps and Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tooling" />
 
 **Data Science Libraries**
 
@@ -245,6 +245,17 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <img src="https://img.shields.io/badge/Data%20Analytics%20Internship-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Data Analytics Internship" />
 
+<br>
+
+<div align="center">
+
+<a href="./Certificates/vois_certificate.pdf">
+  <img src="./CERTIFICATES/VIOS Internship Certificate.pdf"
+       alt="VOIS Data Analytics Internship Certificate"
+       width="700">
+</a>
+
+</div>
 ---
 
 ## Coding Profiles
