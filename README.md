@@ -101,13 +101,16 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Matplotlib-6366F1?style=flat-square&labelColor=0D1117" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=flat-square&labelColor=0D1117" alt="Seaborn" />
-<img src="https://img.shields.io/badge/SciPy-4F46E5?style=flat-square&labelColor=0D1117" alt="SciPy" />
-<img src="https://img.shields.io/badge/Statsmodels-8B5CF6?style=flat-square&labelColor=0D1117" alt="Statsmodels" />
-<img src="https://img.shields.io/badge/DAX-6366F1?style=flat-square&labelColor=0D1117" alt="DAX" />
-<img src="https://img.shields.io/badge/Power%20Query-7C3AED?style=flat-square&labelColor=0D1117" alt="Power Query" />
-<img src="https://img.shields.io/badge/SQL%20Server-4F46E5?style=flat-square&labelColor=0D1117" alt="SQL Server" />
+
+<img src="https://img.shields.io/badge/-ADDITIONAL%20SKILLS-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Additional Skills" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white" alt="Statsmodels" />
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat" alt="DAX" />
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat" alt="Power Query" />
+
 </div>
 
 ---
