@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://yashmonde24.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://yashmonde24.My-Portfolio.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/yashmonde"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:realyashmonde956@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/yashmonde24"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -59,7 +59,7 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,sql&theme=dark" alt="Languages" />
 
 **Frontend and Visualization**
 
@@ -71,7 +71,7 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 **Cloud, DevOps and Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tooling" />
 
 **Data Science Libraries**
 
@@ -249,7 +249,7 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <div align="center">
 
-<a href="./Certificates/vois_certificate.pdf">
+<a href="./Certificates/VIOS Internship Certificate.pdf">
   <img src="./CERTIFICATES/VIOS Internship Certificate.pdf"
        alt="VOIS Data Analytics Internship Certificate"
        width="700">
