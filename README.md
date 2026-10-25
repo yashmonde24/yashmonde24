@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Yash&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Yash Monde&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/yashmonde24">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Statistics;LLM-powered+analytics+%26+text-to-SQL" alt="Typing SVG" />
@@ -59,23 +59,44 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,sql&theme=dark" alt="Languages" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 
 **Frontend and Visualization**
 
-<img src="https://skillicons.dev/icons?i=html,css,powerbi,excel&theme=dark" alt="Frontend and Visualization" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 
 **Backend and Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite&theme=dark" alt="Backend and Databases" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
 **Cloud, DevOps and Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tooling" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 
 **Data Science Libraries**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="Data Science Libraries" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+
+**Complete Tech Stack**
+<div align="center">
+  <img src="https://img.shields.io/badge/-TECH%20STACK-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Matplotlib-6366F1?style=flat-square&labelColor=0D1117" alt="Matplotlib" />
@@ -249,7 +270,7 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <div align="center">
 
-<a href="./Certificates/VIOS Internship Certificate.pdf">
+<a href="./CERTIFICATES/VIOS Internship Certificate.pdf">
   <img src="./CERTIFICATES/VIOS Internship Certificate.pdf"
        alt="VOIS Data Analytics Internship Certificate"
        width="700">
