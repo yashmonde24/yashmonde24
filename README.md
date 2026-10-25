@@ -270,11 +270,7 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <div align="center">
 
-<a href="./CERTIFICATES/VIOS Internship Certificate.pdf">
-  <img src="./CERTIFICATES/VIOS Internship Certificate.pdf"
-       alt="VOIS Data Analytics Internship Certificate"
-       width="700">
-</a>
+<a href="./CERTIFICATES/VIOS Internship Certificate.pdf"></a>
 
 </div>
 ---
