@@ -96,15 +96,12 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 
 **Complete Tech Stack**
-<div align="center">
-  <img src="https://img.shields.io/badge/-TECH%20STACK-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
-</div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/-ADDITIONAL%20SKILLS-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Additional Skills" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
 <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white" alt="Statsmodels" />
