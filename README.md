@@ -99,14 +99,23 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 <div align="center">
 
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/-ADDITIONAL%20SKILLS-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Additional Skills" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
-<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white" alt="Statsmodels" />
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat" alt="DAX" />
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat" alt="Power Query" />
+<img src="https://img.shields.io/badge/Data%20Modelling-7C3AED?style=flat" alt="Data Modelling" />
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-2563EB?style=flat" alt="EDA" />
+<img src="https://img.shields.io/badge/Statistical%20Analysis-0D9488?style=flat" alt="Statistical Analysis" />
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-0891B2?style=flat" alt="Hypothesis Testing" />
+<img src="https://img.shields.io/badge/RFM%20Analysis-7C3AED?style=flat" alt="RFM Analysis" />
+<img src="https://img.shields.io/badge/Funnel%20Analysis-DB2777?style=flat" alt="Funnel Analysis" />
+<img src="https://img.shields.io/badge/Root%20Cause%20Analysis-475569?style=flat" alt="Root Cause Analysis" />
+<img src="https://img.shields.io/badge/KPI%20Reporting-2563EB?style=flat" alt="KPI Reporting" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-16A34A?style=flat" alt="Data Cleaning" />
+<img src="https://img.shields.io/badge/SQL%20Query%20Validation-64748B?style=flat" alt="SQL Query Validation" />
 
 </div>
 
