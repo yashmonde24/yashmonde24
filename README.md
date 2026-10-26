@@ -320,23 +320,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-<img src="https://img.shields.io/badge/-GITHUB%20TROPHIES-4F46E5?style=for-the-badge&labelColor=0D1117" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashmonde24&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://img.shields.io/badge/-CONTRIBUTION%20ACTIVITY-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Contribution Activity" />
 
 <br/><br/>
 
