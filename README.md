@@ -104,8 +104,7 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 
 <img src="https://img.shields.io/badge/-ADDITIONAL%20SKILLS-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Additional Skills" />
 
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Data%20Modelling-7C3AED?style=flat" alt="Data Modelling" />
 <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-2563EB?style=flat" alt="EDA" />
 <img src="https://img.shields.io/badge/Statistical%20Analysis-0D9488?style=flat" alt="Statistical Analysis" />
@@ -136,7 +135,7 @@ I am an entry-level data analyst finishing a B.Sc. in Information Technology in 
 | LLM Applications | ![Working](https://img.shields.io/badge/Working-4F46E5?style=flat-square&labelColor=0D1117) | Gemini API text-to-SQL assistant tested against a PostgreSQL database |
 | Big Data Tooling | ![Learning](https://img.shields.io/badge/Learning-6366F1?style=flat-square&labelColor=0D1117) | PySpark fundamentals, moving from pandas to distributed workflows |
 
----
+
 
 ## Featured Projects
 
@@ -284,23 +283,6 @@ Completed a structured data analytics internship focused on applying analysis to
 <a href="./CERTIFICATES/VIOS Internship Certificate.pdf"></a>
 
 </div>
----
-
-## Coding Profiles
-
-<div align="center">
-<img src="https://img.shields.io/badge/-CODING%20PROFILES-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Coding Profiles" />
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-
-</div>
-
----
 
 ## GitHub Analytics
 
@@ -318,8 +300,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 </div>
 
----
-
 
 <br/><br/>
 
@@ -327,7 +307,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 </div>
 
----
 
 ## Contribution Snake
 
@@ -344,7 +323,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 </div>
 
----
 
 ## Current Focus
 
@@ -384,7 +362,7 @@ Open To:
 <a href="mailto:realyashmonde956@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/yashmonde"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/yashmonde24"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://yashmonde24.My-Portfolio.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
