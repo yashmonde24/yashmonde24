@@ -274,8 +274,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 **VOIS and Edunet Foundation**
 
-<br>
-
 <div align="center">
 
 <a href="./CERTIFICATES/VIOS%20Internship%20Certificate.pdf" target="_blank">
