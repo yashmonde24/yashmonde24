@@ -274,8 +274,6 @@ Completed a structured data analytics internship focused on applying analysis to
 
 **VOIS and Edunet Foundation**
 
-<img src="https://img.shields.io/badge/Data%20Analytics%20Internship-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Data Analytics Internship" />
-
 <br>
 
 <div align="center">
