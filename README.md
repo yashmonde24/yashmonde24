@@ -280,9 +280,10 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <div align="center">
 
-<a href="./CERTIFICATES/VIOS Internship Certificate.pdf"></a>
+<a href="./CERTIFICATES/VIOS Internship Certificate.pdf"> </a>
 
 </div>
+
 
 ## GitHub Analytics
 
@@ -291,19 +292,19 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yashmonde24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=6366F1&ring_color=7C3AED&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmonde24&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmonde24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=6366F1&ring_color=7C3AED&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmonde24&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=yashmonde24&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=A78BFA&dates=8B949E" alt="GitHub Streak" />
 
-</div>
+
 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmonde24&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&title_color=A78BFA" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmonde24&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
