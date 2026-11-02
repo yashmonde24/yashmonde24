@@ -304,7 +304,7 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmonde24&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/8B5CF6/yashmonde24" alt="Contribution Graph" width="100%" />
 
 </div>
 
