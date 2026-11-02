@@ -280,10 +280,12 @@ Completed a structured data analytics internship focused on applying analysis to
 
 <div align="center">
 
-<a href="./CERTIFICATES/VIOS Internship Certificate.pdf"> </a>
+<a href="./CERTIFICATES/VIOS%20Internship%20Certificate.pdf" target="_blank">
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS%20INTERNSHIP-4F46E5?style=for-the-badge&labelColor=0D1117" alt="View Data Analytics Internship Certificate" />
+</a>
 
 </div>
-
+<br/>
 
 ## GitHub Analytics
 
